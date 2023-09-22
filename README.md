@@ -7,7 +7,7 @@
 🔭 I’m currently Practicing Interfacing with **ARM-STM32F401**<br><br>🌱 Also, I’m learning **FreeRTOS** with ARM-based MCUs.<br><br>🤝 Will Appreciate any comments or enhancements of any of my drivers or projects.<br><br>💬 Feel free to Ask me about C, Embedded Systems and Flutter.<br><br>📄 Know about my experiences via [My CV](https://drive.google.com/file/d/1h47IuM1OXjkuHplADhlGklZm3Ho2SX_n/view?usp=drive_link)<br><br>
 
 ## 🌐 Contact Me:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/0762) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hamdy-abdul-rahman) [![HackerRank](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hamdy-abdul-rahman) 
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/0762) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hamdy-abdul-rahman) 
 
 
 
