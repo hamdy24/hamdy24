@@ -7,15 +7,14 @@
 # 💫 About Me:
 <img src = "https://camo.githubusercontent.com/e20822b4282c07ffd010cd05f855a6561d3b62358ca9e607e4901288dd748fcb/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323133313939332f73637265656e73686f74732f343934383733362f74686f75676874776f726b732d6769665f6472696262626c652e676966" alt ="Background" align="right" width="400" height="220"/>
 
-🔭 I’m currently Practicing Interfacing with **ARM-STM32F401**<br><br>
+I’m currently Practicing Interfacing with **ARM-STM32F401** and implemeinting its drivers too.
+Also, I’m learning **FreeRTOS** with ARM-based MCUs and will upload its projects soon.<br>
 
-🌱 Also, I’m learning **FreeRTOS** with ARM-based MCUs.<br><br>
+🤝 I will appreciate any comments or enhancements on my drivers or projects.<br>
 
-🤝 Will appreciate any comments or enhancements on my drivers or projects.<br><br>
+💬 Feel free to Ask me about anything in your head about my drivers or projects.<br>
 
-💬 Feel free to Ask me about C, Embedded Systems and Flutter.<br><br>
-
-📄 Know about my experiences via [My CV](https://drive.google.com/file/d/1h47IuM1OXjkuHplADhlGklZm3Ho2SX_n/view?usp=drive_link)<br><br>
+📄 You can know more about me via  [My CV](https://drive.google.com/file/d/1h47IuM1OXjkuHplADhlGklZm3Ho2SX_n/view?usp=drive_link)<br><br>
 
 
 ## 🌐 Contact Me:
