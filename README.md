@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18&height=180&section=header&text=Hamdy%20Abdul-Rahman&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=fff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18&height=180&section=header&text=Hamdy%20Aouf&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=fff" />
 </div>
 
-<h3 align="center">Full-Stack Software Engineer | Flutter Expert | DevOps Architect</h3>
+<h3 align="center">Full-Stack Mobile Engineer | Flutter Expert | DevOps Architect</h3>
 <h4 align="center">Building production-grade mobile and backend systems with a focus on scalability and automation</h4>
 
 <p align="center">
@@ -14,7 +14,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a **full-stack software engineer** with deep expertise in Flutter mobile development, backend architecture, and DevOps infrastructure. Currently working as full-time engineer at ZagSystems Company, building and deploying multiple production systems while continuously learning and improving myself.
+I'm a **full-stack mobile engineer** with deep expertise in Flutter mobile development, backend architecture, and DevOps infrastructure. Currently working as full-time engineer at ZagSystems Company, building and deploying multiple production systems while continuously learning and improving myself.
 
 🔭 **Currently Working On:**
 - Z-Store (E-commerce & Project Management Platform)
@@ -27,7 +27,6 @@ I'm a **full-stack software engineer** with deep expertise in Flutter mobile dev
 - Backend API architecture and microservices
 - CI/CD pipeline automation with Docker & Jenkins
 - Linux server administration and infrastructure optimization
-- NFC hardware integration and payment gateway systems
 
 💡 **Open to:**
 - Technical architecture discussions
@@ -58,6 +57,7 @@ I'm a **full-stack software engineer** with deep expertise in Flutter mobile dev
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white)
 
 ### **Tools & Platforms**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
