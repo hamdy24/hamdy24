@@ -57,7 +57,7 @@ I'm a **full-stack mobile engineer** with deep expertise in Flutter mobile devel
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 
 ### **Tools & Platforms**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -83,7 +83,7 @@ I'm a **full-stack mobile engineer** with deep expertise in Flutter mobile devel
 ## 🏆 Highlighted Projects
 
 ### 📦 Published Packages
-Check out my Flutter packages on [pub.dev](https://pub.dev/publishers/yourdomain.com/packages) - contributing to the Flutter ecosystem with production-tested solutions.
+Check out my Flutter packages on [pub.dev](https://pub.dev/packages/ghost_logger) - contributing to the Flutter ecosystem with production-tested solutions.
 
 ### 🚀 Production Systems
 - **ZStore**: Full-stack e-commerce and project management platform
@@ -96,7 +96,7 @@ Check out my Flutter packages on [pub.dev](https://pub.dev/publishers/yourdomain
 ## 📫 Let's Connect
 
 <p align="left">
-  <a href="mailto:hamdy.aouf.dev"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="mailto:hamdy.aouf.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
   <a href="https://linkedin.com/in/hamdy-aouf"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://discord.gg/0762"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
 </p>
